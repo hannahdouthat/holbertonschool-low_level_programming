@@ -3,7 +3,7 @@
  * main - Description
  *
  * function print_sign
- * int i
+ * @i:i is function of print_sign
  * Return- value of 0
  */
 
