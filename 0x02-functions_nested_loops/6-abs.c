@@ -1,17 +1,17 @@
-#include main.h
+#include "main.h"
 
 /**
- * @i: is a variable
- * Return: Return is n
+ *@i: is a variable
+ *Return: Return is i
  */
 
-int_abs(int i)
+int _abs(int i)
 {
-if (i>0)
+if (i > 0)
 {
 return (i);
 }
-else if (i<0)
+else if (i < 0)
 {
 return (-i);
 }
