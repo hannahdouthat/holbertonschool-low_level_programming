@@ -1,10 +1,9 @@
 #include "main.h"
 /**
- * main - Description
+ * main - function print_sign
  *
- * function print_sign
  * @i:i is function of print_sign
- * Return- value of 0
+ * Return-print_sign value of 0
  */
 
 int print_sign(int i)
