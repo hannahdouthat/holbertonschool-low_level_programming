@@ -2,7 +2,7 @@
 
 /**
  * _abs - absolute value
- * @i: is a variable 
+ * @i: is a variable
  *
  * Return: Return is i
  */
