@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * @i: described here
+ * @i: Variable
  * _abs - absolute value
  * Return: Return is i
  */
