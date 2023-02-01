@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- *@i: is a variable
- *Return: Return is i
+ * @i: described here
+ * _abs - absolute value
+ * Return: Return is i
  */
 
 int _abs(int i)
