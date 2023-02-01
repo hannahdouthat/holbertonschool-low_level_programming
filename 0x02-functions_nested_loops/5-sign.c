@@ -2,8 +2,11 @@
 /**
  * main - function print_sign
  *
+ * print_sign - Prints the sign of a number.
  * @i:i is function of print_sign
- * Return-print_sign value of 0
+ * Return: 1 if the number is greater than zero,
+ *  0 if the number is zero,
+ *  -1 if the number is less than zero.
  */
 
 int print_sign(int i)
